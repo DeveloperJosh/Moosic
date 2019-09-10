@@ -1,4 +1,4 @@
-package co.moosic.music;
+Vhpackage co.moosic.music;
 
 import com.kaaz.configuration.ConfigurationOption;
 
